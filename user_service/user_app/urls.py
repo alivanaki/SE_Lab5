@@ -4,7 +4,10 @@ from .views import UserProfileViewSet
 
 router = DefaultRouter()
 router.register(r'user-profiles', UserProfileViewSet)
+print(router.urls)
 
 urlpatterns = [
     path('', include(router.urls)),
 ]
+
+print(urlpatterns)
