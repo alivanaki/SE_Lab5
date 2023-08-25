@@ -2,7 +2,7 @@ version: "3"
 services:
   user-service:
     build:
-      context: ./user-service
+      context: ./user_service
     ports:
       - "8000:8000"
     depends_on:
@@ -12,7 +12,7 @@ services:
 
   data-service:
     build:
-      context: ./data-service
+      context: ./data_service
     ports:
       - "8001:8000"
     depends_on:
