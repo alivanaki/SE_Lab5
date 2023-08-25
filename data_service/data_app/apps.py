@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class DataAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'data_app'
+    name = 'data_service.data_app'
