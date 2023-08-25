@@ -1,3 +1,8 @@
-from django.shortcuts import render
+from rest_framework import viewsets
+from .models import DataModel
+from .serializers import DataModelSerializer
 
-# Create your views here.
+
+class DataModelViewSet(viewsets.ModelViewSet):
+    queryset = DataModel.objects.all()
+    serializer_class = DataModelSerializer
