@@ -7,3 +7,18 @@
 ![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/e94aab27-bf9b-424c-90cb-a1620904e655)
 ![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/3049858f-c7a9-48b6-87c5-e47ee543302b)
 
+ در تصاویر زیر می‌توانید مدل، سریالایزر و ویوی مربوط به سرویس data را مشاهده کنید.
+
+ ![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/e3647167-5cd1-4403-9dfd-1f74b0b5367d)
+![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/fe5709f4-d042-41ca-a872-a12b508ec520)
+
+توجه داشته باشید که برای این بخش از آزمایش دو مدل ساده و دو سرویس ساده را در نظر گرفتیم.
+
+در ادامه برای هر یک از سرویس‌ها موردنظر DockerFile مربوطه را تعریف می‌کنیم. در تصویر زیر می‌توانید محتویات DockerFileهای مربوطه را مشاهده کنید.
+
+![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/12155cc4-b0a9-42a6-aeaa-88731791e853)
+![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/ab3e3111-0b73-421a-9fb3-a3077c7e08d1)
+
+هم‌چنین در ادامه فایل docker-compose.yml را به شکل زیر تعریف می‌کنیم.
+
+![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/3d1051ce-8755-40e2-80de-3708a8a08bd5)
