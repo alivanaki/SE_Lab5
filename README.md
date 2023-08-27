@@ -31,3 +31,20 @@
 
 ![Docker_compose3](https://github.com/alivanaki/SE_Lab5/assets/58647313/ad8a992e-8022-4dfa-9961-19480807f62a)
 
+در پایان نیز درستی عملکرد APIهای خود را بررسی می‌کنیم. توجه داشته باشید که به ازای هر سرویس درستی دسترسی به API و پاسخ دریافتی از آن API به ازای هر url در تصاویر زیر بررسی شده است. در گام نخست درستی اجرای سرویس user را بررسی می‌کنیم.
+
+![Untitled](https://github.com/alivanaki/SE_Lab5/assets/58647313/de68b664-6bbd-4495-81dd-6cc8dd185bda)
+![Untitled2](https://github.com/alivanaki/SE_Lab5/assets/58647313/c02f0901-48ab-4c85-bddb-1703f46b9245)
+![Untitled3](https://github.com/alivanaki/SE_Lab5/assets/58647313/e8c64368-d81b-417d-aea9-448053d87976)
+![Untitled4](https://github.com/alivanaki/SE_Lab5/assets/58647313/82e4d23e-471e-4e3b-bf70-d5e9f5f41bb9)
+
+حال درستی اجرای سرویس data را بررسی می‌کنیم.
+
+![Untitled_1](https://github.com/alivanaki/SE_Lab5/assets/58647313/f4bce4b3-ca98-495b-8699-c5bc2aeba535)
+![Untitled_2](https://github.com/alivanaki/SE_Lab5/assets/58647313/f0c999d7-0935-4ef0-a793-8a9b039843c5)
+![Untitled_3](https://github.com/alivanaki/SE_Lab5/assets/58647313/1ed1eb8b-a5d2-4d4e-ac7a-334534b1658d)
+![Untitled_4](https://github.com/alivanaki/SE_Lab5/assets/58647313/dfe52032-9fef-4177-b466-c9d18fd085a8)
+
+
+
+
