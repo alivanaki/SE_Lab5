@@ -52,6 +52,7 @@
 
 هم‌چنین نمودار استقرار معماری Microservice به شکل زیر می‌باشد:
 
+![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/0c3fd690-2570-4d64-afd6-d60d64b08a66)
 
 
 
