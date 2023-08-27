@@ -4,5 +4,5 @@
 
  در تصاویر زیر می‌توانید مدل، سریالایزر و ویوی مربوط به سرویس user را مشاهده کنید.
  ![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/e94aab27-bf9b-424c-90cb-a1620904e655)
-![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/3049858f-c7a9-48b6-87c5-e47ee543302b)
+ ![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/3049858f-c7a9-48b6-87c5-e47ee543302b)
 
