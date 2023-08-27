@@ -22,3 +22,12 @@
 هم‌چنین در ادامه فایل docker-compose.yml را به شکل زیر تعریف می‌کنیم.
 
 ![image](https://github.com/alivanaki/SE_Lab5/assets/58647313/3d1051ce-8755-40e2-80de-3708a8a08bd5)
+
+در نهایت با استفاده از دستور `docker-compose up` سرویس‌های موردنظر را بر روی داکر بالا می‌آوریم.
+
+![Docker_compose2](https://github.com/alivanaki/SE_Lab5/assets/58647313/73a3090b-4891-46e7-822f-b7967b81e865)
+
+هم‌چنین با استفاده از دستورهای `docker ps` و `docker image ls` وجود imageها و containerها مربوط به سرویس‌های خود را بررسی می‌کنیم.
+
+![Docker_compose3](https://github.com/alivanaki/SE_Lab5/assets/58647313/ad8a992e-8022-4dfa-9961-19480807f62a)
+
