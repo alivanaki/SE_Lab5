@@ -41,8 +41,11 @@
 حال درستی اجرای سرویس data را بررسی می‌کنیم.
 
 ![Untitled_1](https://github.com/alivanaki/SE_Lab5/assets/58647313/f4bce4b3-ca98-495b-8699-c5bc2aeba535)
+
 ![Untitled_2](https://github.com/alivanaki/SE_Lab5/assets/58647313/f0c999d7-0935-4ef0-a793-8a9b039843c5)
+
 ![Untitled_3](https://github.com/alivanaki/SE_Lab5/assets/58647313/1ed1eb8b-a5d2-4d4e-ac7a-334534b1658d)
+
 ![Untitled_4](https://github.com/alivanaki/SE_Lab5/assets/58647313/dfe52032-9fef-4177-b466-c9d18fd085a8)
 
 
