@@ -48,6 +48,11 @@
 
 ![Untitled_4](https://github.com/alivanaki/SE_Lab5/assets/58647313/dfe52032-9fef-4177-b466-c9d18fd085a8)
 
+توجه داشته باشید که با استفاده از دستور `docker-compose up --scale user-service=3 --scale data-service=3` عملیات Load Balancing را می‌توانیم انجام دهیم.
+
+هم‌چنین نمودار استقرار معماری Microservice به شکل زیر می‌باشد:
+
+
 
 
 
